@@ -24,7 +24,7 @@
 
 ### 1. 获取 API Key
 
-注册 DeepSeek（免费，送 500 万 tokens）：
+注册 DeepSeek
 
 https://platform.deepseek.com/
 
@@ -59,7 +59,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-打开浏览器访问 **http://localhost:5003** 🎉
+打开浏览器访问 **http://localhost:5003** 
 
 ## 部署到云端
 
