@@ -1,6 +1,6 @@
 # AI Chat - 智能对话助手
 
-🚀 一个对标 ChatGPT 的全栈 AI 聊天系统，支持流式对话、Markdown 渲染、代码高亮。
+ 一个对标 ChatGPT 的全栈 AI 聊天系统，支持流式对话、Markdown 渲染、代码高亮。
 
 ## 特性
 
@@ -106,12 +106,4 @@ Content-Type: application/json
 
 返回 SSE 流式响应。
 
-## 关于简历
 
-这个项目适合写在简历上，突出以下亮点：
-
-- SSE 流式架构设计与实现
-- 多 AI 模型兼容（DeepSeek / OpenAI 一键切换）
-- 前端实时渲染（Markdown + 代码高亮）
-- 双技术栈实现（Python Flask + Next.js）
-- 完整的错误处理与用户体验优化
